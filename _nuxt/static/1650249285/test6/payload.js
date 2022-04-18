@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/test6", {data:[{head:{title:"test6",des:"destest6",img:"\u002FrisingFilmCh\u002F_nuxt\u002Fimg\u002FEX1.bd615bd.png"}}],fetch:{},mutations:void 0});
